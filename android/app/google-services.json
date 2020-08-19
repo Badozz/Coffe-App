@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586787921615",
+    "firebase_url": "https://new-coffe-app.firebaseio.com",
+    "project_id": "new-coffe-app",
+    "storage_bucket": "new-coffe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586787921615:android:a61e65c6f69a5ddfd6a1ba",
+        "android_client_info": {
+          "package_name": "com.example.badozz_coffe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586787921615-l4jjvq32a4vg3bfu4qj1frcbg4d7665v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8vo2N0jjTXRRyzSzGisVNSWRxrf9Wu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586787921615-l4jjvq32a4vg3bfu4qj1frcbg4d7665v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
