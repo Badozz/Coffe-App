@@ -1,4 +1,4 @@
-# badozz_coffe_app
+# Coffe_app
 
 A new Flutter project.
 
